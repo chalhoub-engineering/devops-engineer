@@ -65,5 +65,5 @@ In the README file, we should be able to find all the information necessary to r
 ### Delivery
 
 We will need access to Your repository and to the cloud provider.
-If they are private please share it with daniel.rosiak@chalhoub.com
+If they are private please share it with @daniel-rosiak
 
